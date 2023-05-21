@@ -6,4 +6,9 @@ export default createGlobalStyle`
     padding: 0;
     box-sizing: border-box;
   }
+
+  body {
+    background-color: #201b2c;
+    font-size: 16px;
+  }
 `
